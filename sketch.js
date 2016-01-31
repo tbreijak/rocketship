@@ -11,7 +11,7 @@ var bodyY = 300;
 var bodyWidth = 200;
 var bodyHeight = 350;
 
-rect(bodyX, bodyY, houseWidth, houseHeight);
+rect(bodyX, bodyY, bodyWidth, bodyHeight);
 fill(170); // different shade nose
 triangle(400, 100, 300, 300, 500, 300); // draw the nose
 triangle(300, 500, 250, 650, 300, 650); // left wing
